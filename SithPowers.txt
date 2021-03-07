@@ -1,2 +1,5 @@
 * Bisect
+  - Bisecting allows to iterate over multiple commits to find the commit that
+  Introduced a problem
 * Blame
+ - Allows the user to check who has been making changes to a file

@@ -1,0 +1,10 @@
+Tatooine
+Hoth
+Coruscant
+Naboo
+Alderaan
+Geonosis
+Kamino
+Yavin
+Kashyyyk
+...
